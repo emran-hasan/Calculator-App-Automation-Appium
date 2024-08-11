@@ -1,7 +1,7 @@
 .gradle
 .idea
-.allure-report
-.allure-results
+allure-report/
+allure-results/
 gradle/
 .node_modules
 build/
