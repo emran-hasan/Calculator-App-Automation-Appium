@@ -13,7 +13,7 @@ This project is a basic calculator app is automated by testing a series (100/10*
 - Open ``  build.gradle `` folder, all folder file are created automatically.
 - Connect your android phone with USB cable/ Create an emulated virtual device via Android Studio and run it.
 - Run Appium server start. Then open Appium inspector tool.
-
+  
   
 ## Test Scenarios
 - 100 is divided with 10
